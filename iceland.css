@@ -1,0 +1,40 @@
+.main{
+    width:900px;
+    height:648px;
+    background-color: #02529C;
+    position: relative;
+
+}
+
+#color1{
+    height:144px;
+    width:900px;
+    position: absolute;
+    top:252px;
+    background-color: white;
+
+}
+
+#color2{
+    width:144px;
+    height:648px;
+    position: absolute;
+    left:252px;
+    background-color: white;
+}
+
+#color3{
+    height:72px;
+    width: 900px;
+    position: absolute;
+    top:288px;
+    background-color: #DC1E35;
+}
+
+#color4{
+    width:72px;
+    height:648px;
+    position: absolute;
+    left:288px;
+    background-color: #DC1E35;
+}

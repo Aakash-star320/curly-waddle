@@ -1,0 +1,32 @@
+.flag{
+    width: 900px;
+    height:450px;
+    background-color: #EF3340;
+    position: relative;
+}
+
+#part1{
+    width:675px;
+    height:150px;
+    position: absolute;
+    left:225px;
+    background-color: #009739;
+}
+
+#part2{
+    width:675px;
+    height:150px;
+    position: absolute;
+    left:225px;
+    top:150px;
+    background-color: white;
+}
+
+#part3{
+    width:675px;
+    height:150px;
+    position: absolute;
+    left:225px;
+    top:300px;
+    background-color: black;
+}

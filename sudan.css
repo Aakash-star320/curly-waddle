@@ -1,0 +1,35 @@
+.flag{
+    height:450px;
+    width:900px;
+    background-color: #D21034;
+    position: relative;
+}
+
+#p1{
+    position: absolute;
+    width:100%;
+    height: 150px;
+    top:150px;
+    background-color:white; 
+ 
+}
+
+#p2{
+    position: absolute;
+    width:100%;
+    height: 150px;
+    top:300px;
+    background-color:black; 
+ 
+}
+
+#tri{
+    position: absolute;
+    left: 0px;
+    height: 0px;
+    width: 0px;
+    border-left:300px solid #007229;
+    border-top:225px solid transparent;
+    border-bottom:225px solid transparent;
+
+}

@@ -1,0 +1,27 @@
+body{
+   /* background-color: black;*/
+}
+.main{
+    height:600px;
+    width:900px;
+    background-color: white;
+    position: relative;
+    border: 10px solid black;
+
+}
+
+#p1{
+    position: absolute;
+    top:240px;
+    width: 900px;
+    height: 120px;
+    background-color: #CE1124;
+}
+
+#p2{
+    position: absolute;
+    height: 600px;
+    width:120px;
+    left:390px;
+    background-color:#CE1124 ;
+}
